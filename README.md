@@ -1,7 +1,10 @@
-## Hi there 👋
+<div align="center" dir="rtl">
+  <h1><pre>السلام عليكم ورحمة الله وبركاته</h1> </pre>
+</div>
 
-<!--
-**maxuwuu/maxuwuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+ 
+ #maxuwuu/maxuwuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
